@@ -12,7 +12,7 @@
 ### 人文
 *文化底蕴深厚*
  
-![福州大学](./img/20776062DAEEB1F7BC08ABB888D_41253C2E_552D5.jpg)
+![福州大学](img/20776062DAEEB1F7BC08ABB888D_41253C2E_552D5.jpg)
 
 同时我了解到一个工作室[西二在线](https://site.west2.online/)
 
@@ -27,4 +27,4 @@ print("Hello world")
 |底层原理|深度学习，NLP，CV|
 |工程应用|语音分析，RAG，Harness工程|
 
-==What a crazy day!==
+**What a crazy day!**
